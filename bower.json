@@ -1,0 +1,16 @@
+{
+  "name": "06-SanDiegoTopSpots",
+  "authors": [
+    "Israel Gonzalez <i.gonzalez1212@yahoo.com>"
+  ],
+  "description": "San Diego Hot Spot",
+  "main": "index.html",
+  "keywords": [
+    "san",
+    "diego",
+    "locations"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true
+}

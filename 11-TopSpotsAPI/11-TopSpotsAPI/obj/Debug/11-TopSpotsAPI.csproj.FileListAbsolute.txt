@@ -1,0 +1,1 @@
+C:\dev\github\Israel-Gonzalez\11-TopSpotsAPI\11-TopSpotsAPI\11-TopSpotsAPI\obj\Debug\11-TopSpotsAPI.csprojResolveAssemblyReference.cache
